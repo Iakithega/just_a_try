@@ -1,0 +1,1 @@
+web: pip install . -U && just_a_try-run
